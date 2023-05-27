@@ -4,7 +4,22 @@ import MessajeItem from './MessajeItem'
 const Main = () => {
   return (
     <>
-    <MessajeItem></MessajeItem>
+      <div className="ag-format-container">
+        <div className="ag-courses_box">
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+        <MessajeItem></MessajeItem>
+      </div>
+
+    </div >
     </>
     
   )
